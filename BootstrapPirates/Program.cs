@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Bootstrap Pirates is setting sail!");
+
+Console.WriteLine("Ready to bootstrap your .NET projects with ease!");
