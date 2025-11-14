@@ -3,6 +3,4 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Bootstrap Pirates is setting sail!");
 
-
-
 Console.WriteLine("OHØJ");
