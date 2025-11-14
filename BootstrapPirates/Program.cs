@@ -6,7 +6,6 @@ Console.WriteLine("Bootstrap Pirates is setting sail!");
 Console.WriteLine("OHØJ");
 
 Console.WriteLine("Ready to bootstrap your .NET projects with ease!");
-Console.WriteLine("OHØJ");
 
 //⛵
 Console.WriteLine("Bootstrap Pirates is setting sail! ⛵");
