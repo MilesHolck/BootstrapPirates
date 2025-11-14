@@ -7,5 +7,3 @@ Console.WriteLine("OHØJ");
 
 Console.WriteLine("Ready to bootstrap your .NET projects with ease!");
 
-
-Console.WriteLine("Jeg har lavet min egen gren hehe");
